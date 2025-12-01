@@ -1,0 +1,1 @@
+# AI-Powered-Newsletter-Summarizer-Google-Apps-Script-ChatGPT-API-
